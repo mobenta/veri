@@ -1,0 +1,66 @@
+{
+ "BZ": {
+  "ad": "Krem",
+  "hex": "#FDFED8"
+ },
+ "TK": {
+  "ad": "Ahşap",
+  "hex": "#F0A854"
+ },
+ "AL": {
+  "ad": "Altın",
+  "hex": "#C9A84C"
+ },
+ "AC": {
+  "ad": "Açık Ceviz",
+  "hex": "#A0663A"
+ },
+ "CV": {
+  "ad": "Ceviz",
+  "hex": "#6B3F2A"
+ },
+ "VG": {
+  "ad": "Venge",
+  "hex": "#68361B"
+ },
+ "TR": {
+  "ad": "Turuncu",
+  "hex": "#D4621A"
+ },
+ "BK": {
+  "ad": "Bakır",
+  "hex": "#B74E26"
+ },
+ "BR": {
+  "ad": "Bordo",
+  "hex": "#7B1F2E"
+ },
+ "VL": {
+  "ad": "Mor",
+  "hex": "#6B3FA0"
+ },
+ "IG": {
+  "ad": "Mavi",
+  "hex": "#2E6DA4"
+ },
+ "TZ": {
+  "ad": "Turkuaz",
+  "hex": "#2E8B8B"
+ },
+ "YE": {
+  "ad": "Yeşil",
+  "hex": "#4A7C59"
+ },
+ "AN": {
+  "ad": "Antrasit",
+  "hex": "#3D3D3D"
+ },
+ "SY": {
+  "ad": "Siyah",
+  "hex": "#1A1A1A"
+ },
+ "GM": {
+  "ad": "Gümüş",
+  "hex": "#B8B9BC"
+ }
+}
