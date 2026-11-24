@@ -1,0 +1,766 @@
+{
+  "koleksiyonlar": {
+    "zigon-sehpalar": {
+      "baslik": "Zigon Sehpalar",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Basic Nest-3",
+          "slug": "basic-nest-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b2facff4-9926-4d9d-bc3d-5f4d9ae94a82/540/generated-image-july-16-2026-10-03am.webp"
+        },
+        {
+          "ad": "Basic Nest-5",
+          "slug": "basic-nest-5",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/f8153bcd-afe7-47ef-a084-f54974cdd182/image_540.webp"
+        },
+        {
+          "ad": "Linea Nest-3",
+          "slug": "linea-nest-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/f49dbc4c-461b-4576-b46d-7a9e5de3a13b/image_540.webp"
+        },
+        {
+          "ad": "Linea Nest-5",
+          "slug": "linea-nest-5",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/eb6a80ed-2e8a-48e5-80dd-66ae02b14100/540/generated-image-july-16-2026-10-34am.webp"
+        },
+        {
+          "ad": "LogForm Round-3",
+          "slug": "logform-round-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b1e40d86-56eb-4caf-9357-5858283139c4/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "cekmeceli-rafli-orta-sehpalar": {
+      "baslik": "Çekmeceli ve Raflı Orta Sehpalar",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Modest Brew",
+          "slug": "modest-brew",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/91ece4b7-ca5e-4bc8-8a96-eadedc335162/540/pro-shot-fb65010c-e5c2-4661-96d1-19f5d3fbd645-urun-iyilestirici.webp"
+        },
+        {
+          "ad": "Neo Brew",
+          "slug": "neo-brew",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/5e62365e-681f-4f35-b5fe-85ab1eed9a3d/540/dsc08512-urun-iyilestirici-urun-iyilestirici-yz-ile-duzenle.webp"
+        },
+        {
+          "ad": "Shell Brew",
+          "slug": "shell-brew",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/fd0eebc2-3080-4ab4-ad65-907f4c8c3c27/image_540.webp"
+        },
+        {
+          "ad": "Slot Brew",
+          "slug": "slot-brew",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/4aa8efec-ff80-400b-8196-f69bb3e3e3bb/540/dsc07838-1-yz-ile-duzenle-1-yz-ile-duzenle-yz-ile-duzenle-4-copy.webp"
+        },
+        {
+          "ad": "Stria Brew",
+          "slug": "stria-brew",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/1352f260-24e5-4610-ac9f-91d275f759e6/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "sade-orta-sehpalar": {
+      "baslik": "Sade Orta Sehpalar",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Basic Brew",
+          "slug": "basic-brew",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/d5e1d23c-e0ae-41be-9385-fce7333ad2b1/image_540.webp"
+        },
+        {
+          "ad": "Basic Brew V",
+          "slug": "basic-brew-v",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/bed35089-a29b-46e8-96fc-ea36781fbd2d/image_540.webp"
+        },
+        {
+          "ad": "Linea Brew V",
+          "slug": "linea-brew-v",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/839fb760-056f-43db-9847-d69320c8126b/image_540.webp"
+        },
+        {
+          "ad": "LogCore Brew",
+          "slug": "logcore-brew",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/a90827be-0a19-417e-b0e2-544918ce8f73/image_540.webp"
+        },
+        {
+          "ad": "LogForm Quad",
+          "slug": "logform-quad",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/efd78afc-ea12-4796-99ee-da06792e23ea/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "yan-sehpalar": {
+      "baslik": "Yan Sehpalar",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Basic C-Slide",
+          "slug": "basic-c-slide",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/7ede3187-34bb-47f2-aa50-811d0a64ee7a/image_540.webp"
+        },
+        {
+          "ad": "Basic Side",
+          "slug": "basic-side",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/544625fa-8a67-4be3-bb6b-0a1e1c71598b/image_540.webp"
+        },
+        {
+          "ad": "LogCore V-Slim",
+          "slug": "logcore-v-slim",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/1f85404d-1f9a-4ac1-9f41-39ec73f00122/image_540.webp"
+        },
+        {
+          "ad": "LogForm Duo",
+          "slug": "logform-duo",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/a705f9ea-d666-4469-a364-dff3e344fcd4/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "tv-uniteleri": {
+      "baslik": "TV Ünitesi ve Sehpası",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Stria Media",
+          "slug": "stria-media",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/cb234a05-f4b4-464b-930b-c146a2e8a863/image_540.webp"
+        },
+        {
+          "ad": "Stria TV",
+          "slug": "stria-tv",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/30ad5236-25af-41fe-bfbe-f205ff4e20c6/image_540.webp"
+        },
+        {
+          "ad": "Modest TV",
+          "slug": "modest-tv",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/1e0db141-f7d8-4293-9057-ea1446e3f441/image_540.webp"
+        },
+        {
+          "ad": "Neo TV",
+          "slug": "neo-tv",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/023ea2b1-76eb-4468-8d61-05fa6f4a5bcc/540/urun-iyilestirici-0bc24a71-d98f-471d-b5eb-a25cf081e9b7-copy-yz-ile-duzenle-yz-ile-duzenle.webp"
+        },
+        {
+          "ad": "Slot TV",
+          "slug": "slot-tv",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/ecbc6268-08e6-478e-8273-0e46a0ac0fd9/image_540.webp"
+        },
+        {
+          "ad": "Basic TV",
+          "slug": "basic-tv",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/324df427-d7ec-498a-ae81-1e58a1f829b2/image_540.webp"
+        },
+        {
+          "ad": "Slab TV",
+          "slug": "slab-tv",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/313d163f-fca9-42ee-8c91-8614908a833f/image_540.webp"
+        },
+        {
+          "ad": "Basic TV Axle",
+          "slug": "basic-tv-axle",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/6d480c3a-9a83-4a87-ac9a-2e10667f939a/image_540.webp"
+        },
+        {
+          "ad": "Basic TV Pod",
+          "slug": "basic-tv-pod",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/25fcb62c-795b-458b-8cdd-5f7826274fbb/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "yuvarlak-zigon-sehpa": {
+      "baslik": "Yuvarlak Zigon Sehpa",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "LogForm Round-3",
+          "slug": "logform-round-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b1e40d86-56eb-4caf-9357-5858283139c4/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "parcali-sehpa": {
+      "baslik": "Parçalı Sehpa",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Merge HeartLeaf",
+          "slug": "merge-heartleaf",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/0f6a1912-55b5-4141-93ab-bbd144aa4986/image_540.webp"
+        },
+        {
+          "ad": "Merge Orbit-3",
+          "slug": "merge-orbit-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/ee490a63-c4a1-4e8d-9e77-59c4e20794c3/image_540.webp"
+        },
+        {
+          "ad": "Merge Quad-3",
+          "slug": "merge-quad-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/cf07a996-2ab0-4ed3-873a-cd202aa4213e/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "hibrit-orta-sehpalar": {
+      "baslik": "Hibrit Modeller",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Frame DuoFold",
+          "slug": "frame-duofold",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/ff09e457-40e0-438b-8a6b-b207cb31bc2d/image_540.webp"
+        },
+        {
+          "ad": "Frame DuoLift",
+          "slug": "frame-duolift",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/3bdfb026-d594-494a-9220-8b5bd112e2af/image_540.webp"
+        },
+        {
+          "ad": "Merge HeartLeaf",
+          "slug": "merge-heartleaf",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/0f6a1912-55b5-4141-93ab-bbd144aa4986/image_540.webp"
+        },
+        {
+          "ad": "Merge Orbit-3",
+          "slug": "merge-orbit-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/ee490a63-c4a1-4e8d-9e77-59c4e20794c3/image_540.webp"
+        },
+        {
+          "ad": "Merge Quad-3",
+          "slug": "merge-quad-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/cf07a996-2ab0-4ed3-873a-cd202aa4213e/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "calisma-masalari": {
+      "baslik": "Çalışma Masaları",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Basic Desk",
+          "slug": "basic-desk",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/9c91f073-815a-449f-bbbd-bc3f727f08bc/image_540.webp"
+        },
+        {
+          "ad": "Modest Desk",
+          "slug": "modest-desk",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/f111efe9-d238-433a-9063-72a499b28dab/540/urun-iyilestirici-297515dd-6823-4c3c-be71-45191c1f927b.webp"
+        },
+        {
+          "ad": "Neo Desk",
+          "slug": "neo-desk",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/f84787bf-9247-417f-a662-9a857e757d8d/540/gemini-generated-image-q76cerq76cerq76c-yz-ile-duzenle-1-copy-yz-ile-duzenle-yz-i-copy-yz-i-2.webp"
+        },
+        {
+          "ad": "Slot Desk",
+          "slug": "slot-desk",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/4887f577-c647-487a-af52-b88ebe604110/540/gemini-generated-image-xmsdbsxmsdbsxmsd-copy-urun-iyilestirici-yz-ile-duzenle-1.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "yemek-masalari": {
+      "baslik": "Yemek Masaları",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Frame DuoFold",
+          "slug": "frame-duofold",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/ff09e457-40e0-438b-8a6b-b207cb31bc2d/image_540.webp"
+        },
+        {
+          "ad": "Frame DuoLift",
+          "slug": "frame-duolift",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/3bdfb026-d594-494a-9220-8b5bd112e2af/image_540.webp"
+        },
+        {
+          "ad": "Frame U-Quad",
+          "slug": "frame-u-quad",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/4346f6f6-500b-44fa-8163-3020a158dea7/image_540.webp"
+        },
+        {
+          "ad": "Frame V-Angle",
+          "slug": "frame-v-angle",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/6c4957da-0af2-46da-93a1-7db60cf78cd7/image_540.webp"
+        },
+        {
+          "ad": "Frame V-Slim",
+          "slug": "frame-v-slim",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b9637562-a050-497b-b29d-af9b65b11fa3/image_540.webp"
+        },
+        {
+          "ad": "Frame X-Core",
+          "slug": "frame-x-core",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/931aa7f9-bd0a-424b-b2fb-53f2ec34d596/image_540.webp"
+        },
+        {
+          "ad": "Frame X-Cross",
+          "slug": "frame-x-cross",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/a5a44505-b742-4667-8d24-c91f62b01e36/image_540.webp"
+        },
+        {
+          "ad": "Frame X-Wood",
+          "slug": "frame-x-wood",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/00ed5225-deef-41a0-8166-c9022edd454d/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "toplanti-masasi": {
+      "baslik": "Toplantı Masası",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Frame U-Quad",
+          "slug": "frame-u-quad",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/4346f6f6-500b-44fa-8163-3020a158dea7/image_540.webp"
+        },
+        {
+          "ad": "Frame V-Angle",
+          "slug": "frame-v-angle",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/6c4957da-0af2-46da-93a1-7db60cf78cd7/image_540.webp"
+        },
+        {
+          "ad": "Frame V-Slim",
+          "slug": "frame-v-slim",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b9637562-a050-497b-b29d-af9b65b11fa3/image_540.webp"
+        },
+        {
+          "ad": "Frame X-Core",
+          "slug": "frame-x-core",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/931aa7f9-bd0a-424b-b2fb-53f2ec34d596/image_540.webp"
+        },
+        {
+          "ad": "Frame X-Cross",
+          "slug": "frame-x-cross",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/a5a44505-b742-4667-8d24-c91f62b01e36/image_540.webp"
+        },
+        {
+          "ad": "Frame X-Wood",
+          "slug": "frame-x-wood",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/00ed5225-deef-41a0-8166-c9022edd454d/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "bistro-masa": {
+      "baslik": "Bistro Masalar",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Octo Quad",
+          "slug": "octo-quad",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/7fa4e172-b0d1-4207-bb4c-159979263776/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "yukseklik-ayarli-sehpa": {
+      "baslik": "Yükseklik Ayarlı Sehpalar",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Frame DuoFold",
+          "slug": "frame-duofold",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/ff09e457-40e0-438b-8a6b-b207cb31bc2d/image_540.webp"
+        },
+        {
+          "ad": "Frame DuoLift",
+          "slug": "frame-duolift",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/3bdfb026-d594-494a-9220-8b5bd112e2af/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "yemek-masasi-takimlari": {
+      "baslik": "Yemek Masası Takımları",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Angle Solo",
+          "slug": "angle-solo",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/43151dd7-a0f3-4da1-84d5-0f1f83f44c37/image_540.webp"
+        },
+        {
+          "ad": "Aura",
+          "slug": "aura",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/28f612d7-c61c-4515-ae83-7df3c3f31987/image_540.webp"
+        },
+        {
+          "ad": "Core Duo",
+          "slug": "core-duo",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/97c1f698-ceb2-4004-b616-38d2a5bb51d5/image_540.webp"
+        },
+        {
+          "ad": "Core Solo",
+          "slug": "core-solo",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/91be83ec-ef4b-457d-96d0-2d74e11ec85e/image_540.webp"
+        },
+        {
+          "ad": "Fusion",
+          "slug": "fusion",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/3172ab51-e646-4278-8001-48a897489d3c/image_540.webp"
+        },
+        {
+          "ad": "Quadrant",
+          "slug": "quadrant",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/be6e52c1-bf72-434a-baaf-1945950387b6/image_540.webp"
+        },
+        {
+          "ad": "X-Wood Solo",
+          "slug": "x-wood-solo",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/d9ccbee2-8315-41fd-bdb0-63b43cb87ef3/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "dresuarlar": {
+      "baslik": "Dresuarlar",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Basic Entry",
+          "slug": "basic-entry",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/8bfd7aa7-af58-4beb-9312-bb61288707e4/image_540.webp"
+        },
+        {
+          "ad": "Modest Entry",
+          "slug": "modest-entry",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/22028182-b9d8-4ffb-9623-7da1367050f4/image_540.webp"
+        },
+        {
+          "ad": "Neo Entry",
+          "slug": "neo-entry",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/5763f986-d963-4b5f-ab45-0726d2fb5728/image_540.webp"
+        },
+        {
+          "ad": "Slot Entry",
+          "slug": "slot-entry",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b1e53489-e4e6-41f4-8f37-0981ea907306/image_540.webp"
+        },
+        {
+          "ad": "Stria Entry",
+          "slug": "stria-entry",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/2df9b6f2-2968-464e-bb80-72dc657c49e9/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "konsollar": {
+      "baslik": "Konsol",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Stria Buffet",
+          "slug": "stria-buffet",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/54ef5464-a8e0-4cf6-a680-b8298867b1d7/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "banklar": {
+      "baslik": "Banklar",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "BareBench U-Quad",
+          "slug": "barebench-u-quad",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/31bd4d51-7594-417e-8f30-e77304974e1e/image_540.webp"
+        },
+        {
+          "ad": "BareBench V-Angle",
+          "slug": "barebench-v-angle",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/961c9d6c-c98f-4850-b110-eaac3b86bd3b/image_540.webp"
+        },
+        {
+          "ad": "BareBench X-Core",
+          "slug": "barebench-x-core",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/7cacb27b-af82-4ce9-87d7-021ab89151af/image_540.webp"
+        },
+        {
+          "ad": "BareBench X-Cross",
+          "slug": "barebench-x-cross",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/7d578941-7190-4eda-b694-ab4009e1ea40/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "sandalyeler": {
+      "baslik": "Sandalyeler",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "ArmChair C-Swing",
+          "slug": "armchair-c-swing",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/d3ffe83b-6aeb-41e7-85a5-13fd1e5377a9/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "tabureler": {
+      "baslik": "Tabureler",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Basic Seat",
+          "slug": "basic-seat",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/0cb70507-77cf-4d0f-ac69-1eac6fa51316/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "kitapliklar": {
+      "baslik": "Kitaplıklar",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Libra Frame",
+          "slug": "libra-frame",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/d2fb04f3-e2b3-4706-b201-f1a9d55b6049/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "komodin": {
+      "baslik": "Komodinler",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Basic Block",
+          "slug": "basic-block",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/be1cf538-7bcc-492b-b817-8190d5a1a366/image_540.webp"
+        },
+        {
+          "ad": "Basic Cube",
+          "slug": "basic-cube",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/0ea922bd-db0c-494f-b941-7eaffc1fc669/image_540.webp"
+        },
+        {
+          "ad": "Basic Cube V",
+          "slug": "basic-cube-v",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/0998fd94-48b8-42ca-be51-2a9f8a984648/image_540.webp"
+        },
+        {
+          "ad": "Stria Nox",
+          "slug": "stria-nox",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/362c3db5-2a6f-49d8-80bc-4f2002b7aa48/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "masif-ahsap-karyola": {
+      "baslik": "Karyola",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Lodge Rest",
+          "slug": "lodge-rest",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/9d4cdd07-5084-4b7c-a43d-eebd9890ed95/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "saksilar-ve-bitki-standlari": {
+      "baslik": "Saksılar & Bitki Standları",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Arbor Eden-2",
+          "slug": "arbor-eden-2",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/0b3de7e0-25d7-407a-896e-9e93afe29e22/image_540.webp"
+        },
+        {
+          "ad": "Arbor Eden-4",
+          "slug": "arbor-eden-4",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/1fde7b2d-8f98-4138-bd8b-259cd3b73278/image_540.webp"
+        },
+        {
+          "ad": "Arbor Eden-6",
+          "slug": "arbor-eden-6",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/2e751e71-e731-440f-b9e9-dc88f7aa0c8a/image_540.webp"
+        },
+        {
+          "ad": "Terra Axle-3",
+          "slug": "terra-axle-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/f267070c-d110-4250-9b82-69e9f313d449/image_540.webp"
+        },
+        {
+          "ad": "Terra Tripod",
+          "slug": "terra-tripod",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/762bd485-4579-408c-bcdc-2336188db41d/image_540.webp"
+        },
+        {
+          "ad": "Terra Tripod-3",
+          "slug": "terra-tripod-3",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/d98a78dc-6358-4d70-961b-2166a05a6b2c/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "baharat-raflari": {
+      "baslik": "Baharat Rafları",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Spicy Frame",
+          "slug": "spicy-frame",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/af17052d-3769-4298-998b-cd181a9b3e9b/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "kesme-tahtalari": {
+      "baslik": "Kesme Tahtaları",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Craft Tang",
+          "slug": "craft-tang",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/66452533-9a4f-4268-b7a9-f5e896bd0b7b/image_540.webp"
+        },
+        {
+          "ad": "Craft Tang-2",
+          "slug": "craft-tang-2",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/778cb2fa-8dcf-4782-a9d8-cdb3a313c4a4/image_540.webp"
+        },
+        {
+          "ad": "Sous Chess",
+          "slug": "sous-chess",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/4e53000a-fc40-42f5-badf-418331e27537/image_540.webp"
+        },
+        {
+          "ad": "Sous Stripe",
+          "slug": "sous-stripe",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b17896e8-7d6f-4faf-9274-bc80a989fd67/image_540.webp"
+        },
+        {
+          "ad": "Zest Zebra",
+          "slug": "zest-zebra",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/79951001-3f8f-4f97-9da1-b3cc14353690/image_540.webp"
+        },
+        {
+          "ad": "Zest Zebra-2",
+          "slug": "zest-zebra-2",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b95cceb2-2fe5-430b-b83d-08611801b63b/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "sunum-tahtalari": {
+      "baslik": "Sunum Tahtaları",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Craft Tang",
+          "slug": "craft-tang",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/66452533-9a4f-4268-b7a9-f5e896bd0b7b/image_540.webp"
+        },
+        {
+          "ad": "Craft Tang-2",
+          "slug": "craft-tang-2",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/778cb2fa-8dcf-4782-a9d8-cdb3a313c4a4/image_540.webp"
+        },
+        {
+          "ad": "Sous Chess",
+          "slug": "sous-chess",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/4e53000a-fc40-42f5-badf-418331e27537/image_540.webp"
+        },
+        {
+          "ad": "Sous Stripe",
+          "slug": "sous-stripe",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b17896e8-7d6f-4faf-9274-bc80a989fd67/image_540.webp"
+        },
+        {
+          "ad": "Zest Zebra",
+          "slug": "zest-zebra",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/79951001-3f8f-4f97-9da1-b3cc14353690/image_540.webp"
+        },
+        {
+          "ad": "Zest Zebra-2",
+          "slug": "zest-zebra-2",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b95cceb2-2fe5-430b-b83d-08611801b63b/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "makyaj-organizerleri": {
+      "baslik": "Makyaj Organizerleri",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Tier Lift-2",
+          "slug": "tier-lift-2",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/401556eb-0350-4ffe-a4bb-44752f8a0862/image_540.webp"
+        },
+        {
+          "ad": "Tier Stem-2",
+          "slug": "tier-stem-2",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/7abcffde-2639-40cc-a5bb-fea7101d5f21/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "ahsap-sunum-stantlari": {
+      "baslik": "Sunum Stantları",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Tier Lift-2",
+          "slug": "tier-lift-2",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/401556eb-0350-4ffe-a4bb-44752f8a0862/image_540.webp"
+        },
+        {
+          "ad": "Tier Stem-2",
+          "slug": "tier-stem-2",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/745997d9-6f3b-436d-8870-b978c910bfd9/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "aydinlatma": {
+      "baslik": "Aydınlatma",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Spira Pillar",
+          "slug": "spira-pillar",
+          "gorsel": ""
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "lambaderler": {
+      "baslik": "Lambaderler",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Spira Pillar",
+          "slug": "spira-pillar",
+          "gorsel": ""
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    },
+    "duvar-saatleri": {
+      "baslik": "Duvar Saatleri",
+      "altbaslik": "Modeller",
+      "modeller": [
+        {
+          "ad": "Chrono Core",
+          "slug": "chrono-core",
+          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/9327d97a-76c9-4640-954c-0aaa4e950b27/image_540.webp"
+        }
+      ],
+      "ekParametre": "one-cikan=evet"
+    }
+  }
+}
