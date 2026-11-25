@@ -618,43 +618,6 @@
       ],
       "ekParametre": "one-cikan=evet"
     },
-    "sunum-tahtalari": {
-      "baslik": "Sunum Tahtaları",
-      "altbaslik": "Modeller",
-      "modeller": [
-        {
-          "ad": "Craft Tang",
-          "slug": "craft-tang",
-          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/66452533-9a4f-4268-b7a9-f5e896bd0b7b/image_540.webp"
-        },
-        {
-          "ad": "Craft Tang-2",
-          "slug": "craft-tang-2",
-          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/778cb2fa-8dcf-4782-a9d8-cdb3a313c4a4/image_540.webp"
-        },
-        {
-          "ad": "Sous Chess",
-          "slug": "sous-chess",
-          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/4e53000a-fc40-42f5-badf-418331e27537/image_540.webp"
-        },
-        {
-          "ad": "Sous Stripe",
-          "slug": "sous-stripe",
-          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b17896e8-7d6f-4faf-9274-bc80a989fd67/image_540.webp"
-        },
-        {
-          "ad": "Zest Zebra",
-          "slug": "zest-zebra",
-          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/79951001-3f8f-4f97-9da1-b3cc14353690/image_540.webp"
-        },
-        {
-          "ad": "Zest Zebra-2",
-          "slug": "zest-zebra-2",
-          "gorsel": "https://cdn.myikas.com/images/fb3c83a2-8a4a-4dc8-addd-fc2b93f49167/b95cceb2-2fe5-430b-b83d-08611801b63b/image_540.webp"
-        }
-      ],
-      "ekParametre": "one-cikan=evet"
-    },
     "makyaj-organizerleri": {
       "baslik": "Makyaj Organizerleri",
       "altbaslik": "Modeller",
