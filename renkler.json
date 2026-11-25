@@ -51,6 +51,10 @@
   "ad": "Yeşil",
   "hex": "#4A7C59"
  },
+ "GM": {
+  "ad": "Gümüş",
+  "hex": "#B8B9BC"
+ },
  "AN": {
   "ad": "Antrasit",
   "hex": "#3D3D3D"
@@ -58,9 +62,5 @@
  "SY": {
   "ad": "Siyah",
   "hex": "#1A1A1A"
- },
- "GM": {
-  "ad": "Gümüş",
-  "hex": "#B8B9BC"
  }
 }
